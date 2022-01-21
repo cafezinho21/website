@@ -7,7 +7,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "Gabriel's Website"
+title = "Gabriel Santos Blog"
 
 theme="hook"
 
